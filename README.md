@@ -2,6 +2,7 @@ This repository (in the subdirectory "paper_numbers") contains Python code that 
 ``Reduction of the dc electric field sensitivity of circular Rydberg states using
 non-resonant dressing fields''
 by Y. Ni, P. Xu, and J. D. D. Martin
+and further work on triplet Helium Rydberg states.
 
 Our main calculation code "import"s these modules, then either:
 1) uses the defined variables as parameters in calculations, and/or

@@ -1,16 +1,6 @@
-"""Parameters etc ... for comparison with previous circular Rydberg work
+"""For Appendix comparison with previous circular Rydberg work
 
-This is a Python file intended to provide documentation of the parameters
-that we used in our circular Rydberg state calculations (with full
-precision), and some of the results we obtained, as summarized in the 
-Appendix of our paper.
-
-Our main calculation code "import"s this module, uses its parameters,
-and asserts that calculated results are in agreement with the numbers
-here.
-
-Note that the number of significant digits shown for calculated quantities 
-are not estimates of their uncertainties. 
+See "README.md" in the parent directory.
 
 References:
 [Moz2005]: Mozley et al., Eur. Phys. J. D 35, 43-57 (2005).

@@ -1,8 +1,7 @@
 """
-These are numbers that we quote in dressing paper.  We
-  1) check these against our calculations using assertions in
-     our calculation code, and
-  2) use these as parameters for further calculations.
+For Rb 49s-48s calculations in main body of text
+
+See "README.md" in the parent directory.
 """
 
 # 2nd order differential dc Stark effect coefficient, computed using
